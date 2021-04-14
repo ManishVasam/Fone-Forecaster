@@ -7,3 +7,8 @@ In Fone Forecaster, the main idea is to predict the base price range of a newly 
 RAM, processor, camera resolution and many more.
 
 Fone Forecaster is a Machine Learning model which uses AUTO AI, Python programming, Flask, and HTML.
+
+Here's the link to the demonstration video of our project
+
+httpsdrive.google.comdrivefolders1w_OzdBbORinA_nKaCyNZ6FGLxMBT0Mrhusp=sharing
+
