@@ -3,7 +3,7 @@ import requests
 
 
 # NOTE: you must manually set API_KEY below using information retrieved from your IBM Cloud account.
-API_KEY = "1s_7P0WWGYbN3Tr5MTTOO5J8J-n8fyjEUE9KM2Dlg4Z2"
+API_KEY = "YOUR CLOUD API KEY HERE"
 token_response = requests.post('https://iam.eu-gb.bluemix.net/identity/token',
                                data={"apikey": API_KEY, "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'})
 print(token_response)
